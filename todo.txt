@@ -1,4 +1,4 @@
-- optimize PointsGenerators by caching sin/cos resuls
+- optimize PointsGenerators by caching sin/cos results
 - add arrow line caps
 - add point drawer with PointList?
 - add dashed line drawer with PointList?
@@ -7,5 +7,5 @@
 - maybe inner glow
 - add UVs to shapes
 	- normalized on shape bounds
-	- screenspace (have same texture across multiple shapes without seams)
+	- screen space (have same texture across multiple shapes without seams)
 - add shift move axis snapping to point list editor
